@@ -3,7 +3,7 @@ body{
     background-color: antiquewhite;
 }
 .container{
-    /* margin: auto; */
+    margin: auto;
     display: flex;
     justify-content: center;
     margin:auto;
